@@ -4,16 +4,16 @@ Este es el proyecto Final correspondiente a la asignatura de Programación Web. 
 
 # Vista sin iniciar sesión
 
-![Captura de pantalla](muro-interactivo\public\screenshoots\image.png)
+![Captura de pantalla](./public/screenshoots/image.png)
 
 # Modal para crear una cuenta
 
-![Captura de pantalla](muro-interactivo\public\screenshoots\image2.png)
+![Captura de pantalla](./public/screenshoots/image2.png)
 
 # Modal para iniciar sesion
 
-![Captura de pantalla](muro-interactivo\public\screenshoots\image4.png)
+![Captura de pantalla](./public/screenshoots/image4.png)
 
 # Vista al iniciar sesión
 
-![Captura de pantalla](muro-interactivo\public\screenshoots\image3.png)
+![Captura de pantalla](./public/screenshoots/image3.png)
